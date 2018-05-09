@@ -1,0 +1,8 @@
+{
+    "name": "laravel-validation-rules/offensive",
+    "version": "1.0.0",
+    "type": "metapackage",
+    "require": {
+        "divineomega/laravel-offensive-validation-rule": "1.0.0"
+    }
+}
