@@ -3,6 +3,6 @@
     "description": "Metapackage for https://github.com/DivineOmega/laravel-offensive-validation-rule",
     "type": "metapackage",
     "require": {
-        "divineomega/laravel-offensive-validation-rule": "1.0.0"
+        "divineomega/laravel-offensive-validation-rule": "1.1.0"
     }
 }

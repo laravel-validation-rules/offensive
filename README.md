@@ -19,6 +19,9 @@ $request->validate([
 ]);
 ```
 
+You are also able to specifiy a custom offensive word blacklist and whitelist. If you wish
+to do this, check the [additional usage examples](https://github.com/DivineOmega/laravel-offensive-validation-rule#usage).
+
 ## License
 This project is licensed under a GNU Lesser General Public License v3.0 which you can find
 [in this LICENSE](https://github.com/laravel-validation-rules/exposed-password/blob/master/LICENSE).
